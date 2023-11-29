@@ -1,1 +1,1 @@
-print("Hi learnig english funtactic")
+print("Hi learnig english deflical")
